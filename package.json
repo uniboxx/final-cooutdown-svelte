@@ -18,5 +18,8 @@
     "name": "unibox",
     "email": "unibox@duck.com",
     "url": "https://t.me/unibox"
+  },
+  "dependencies": {
+    "svelte-portal": "^2.2.1"
   }
 }
